@@ -1,0 +1,11 @@
+You can choose to work in a pair
+Part 1:
+//Write the function template myMin to compute minimum of two numbers
+You can refer to the myMax function in main.cpp
+//Also write a function testMin which tests the function template
+//Then type the function in main.cpp and invoke the function testMin in int main function
+//Note: Type, do not copy so that you practice it properly
+
+Part 2:
+In mypair.h write a template function getMin that returns the minimum of the two data types
+Add some examples in testMypair function to test getMin
